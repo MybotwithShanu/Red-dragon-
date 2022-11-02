@@ -1,26 +1,39 @@
 {
-  "name": "⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜",
+  "name": "⚜️RED DRAGON 🐉 ⚜",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/zim-bot/zimbot-v2",
   "logo": "https://i.ibb.co/Rg9YpBF/IMG-20221010-WA0039.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
    "env": {
   
- "OWNER_NAME" :{
-    "description" : "enter you name",
+ "OWNER_NAME" :{Shanukaindrajith
+    "description" : "Shanu bot",
     "required" : true,
-  "value" : "KAVEESHA "
+  "value" : "Shanu"
     },
     
      
      
-"ALIVE_MSG" :{
-    "description" : "enter you msg",
+"ALIVE_MSG" :{HEY COME TO Shanubot group 
+              🐉
+    "description" : "✡️බොට් වැඩද කියලා බලන්න .alive ලෙස මැසේජ් එකක් දමන්න✅
+
+✡️බොට්ගෙ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧 එක ගන්න .menuහෝ .panelලෙස මැසේජ් එකක් දමන්න✅
+
+✡️𝗦𝗢𝗡𝗚, 𝗩𝗜𝗗𝗘𝗢, 𝗔𝗣𝗣𝗦, 𝗠𝗘𝗗𝗜𝗔𝗙𝗜𝗟𝗘, 𝗦𝗧𝗜𝗖𝗞𝗘𝗥, 𝗬𝗧 𝗩𝗜𝗗𝗘𝗢, 𝗜𝗠𝗔𝗚𝗘 වැනි දෑ ඩව්න්ලෝඩ් කර ගැනීමට සහ තවත් විශේෂ වැඩ කරගත හැක✅
+
+✡️කෙල්ලෝ කොල්ලො දෙගොල්ලන්ටම ඉන්න පුලුවන්✅
+
+𝗡𝗢 𝗜𝗡𝗕𝗢𝗫
+
+𝗡𝗢 𝗦𝗣𝗔𝗠 𝗔𝗡𝗗 𝗡𝗢 𝗛𝗜J
+
+~Gurop link~ :-https://chat.whatsapp.com/KFiQL4qXt62FQB4H094iSa 🙂",
     "required" : true,
-  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+  "value" : "HI I'M  🐉 Red Dragon with=Shanu"
     },
      
-     "ALIVE_LOGO" :{
+     "ALIVE_LOGO" :{I AM SHANU
     "description" : "you logo key",
     "required" : true,
   "value" : "https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
